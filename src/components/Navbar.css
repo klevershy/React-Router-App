@@ -1,0 +1,15 @@
+.navbar {
+  padding: 0 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #063514;
+}
+.logo {
+  font-size: 1.6rem;
+}
+.listMenu a {
+  color: grey;
+  font-size: 1.2rem;
+  margin: 0 1rem;
+}
